@@ -1,5 +1,3 @@
-package nevim4;
-
 class NewsAgency {
     private final java.util.List<NewsObserver> obs = new java.util.ArrayList<>();
     public void add(NewsObserver o){
